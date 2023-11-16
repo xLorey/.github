@@ -20,6 +20,6 @@ We strive to create a "healthy" community. If you want to share your experience,
 
 The main language is Russian, but thanks to the translators we will be happy to communicate in your language❤️
 
-<p align="center">
+<a align="center" src="https://discord.gg/BwSuTdEGJ4">
   <img src="https://discordapp.com/api/guilds/1174285070761197599/widget.png?style=banner3" alt="Discord Banner 3"/>
-</p>
+</a>
